@@ -3,13 +3,11 @@
 
 ## Experiments performed in the Laboratory courses:
 -----------------------------
-
 * Electromagnetism (PHY112)
 * Hands-on Electronics (IDC102)
 
 ## Required packages:
 -----------------------------
-
 * MatPlotLib
 * SciPy
 * NumPy
@@ -19,6 +17,5 @@
 
 # Learn:
 -----------------
-
 Repository has the Essentials folder for referencing the libraries used with a variety of useful functions.
 (More notes work in progress)
