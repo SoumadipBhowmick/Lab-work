@@ -1,10 +1,6 @@
 # Lab-Work
 
-
-## Experiments performed in the Laboratory courses:
------------------------------
-* Electromagnetism (PHY112)
-* Hands-on Electronics (IDC102)
+Experiments performed in my undergraduate curriculum at IISER Mohali. 
 
 ## Required packages:
 -----------------------------
@@ -13,7 +9,7 @@
 * NumPy
 * pandas
 * [SciencePlots](https://github.com/garrettj403/SciencePlots)
-**Note**: For me, Vscode does not suppport latex styling in scienceplots, use `no-latex` style to bypass it
+
 
 # Learn:
 -----------------
