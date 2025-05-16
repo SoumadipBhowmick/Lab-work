@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="138.978mm"
+   height="89.465042mm"
+   viewBox="0 0 525.27118 338.1356"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="transmitter.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="transmitter.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.4987956"
+     inkscape:cx="391.98141"
+     inkscape:cy="162.13018"
+     inkscape:window-width="1920"
+     inkscape:window-height="944"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="use1-2-7-3">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-379.28127"
+       originy="-156.71598"
+       spacingx="3.7795277"
+       spacingy="3.7795276"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect440"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect439"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect438"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect437"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <symbol
+       id="circuitikz_0.5mm_grid.svg:mos4">
+      <title
+         id="title487">mos: pmos analog</title>
+      <g
+         id="g491">
+        <path
+           d="m 48.51311,210.97907 -5e-6,2.97872 h -3.674962"
+           fill="none"
+           id="path487"
+           style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10"
+           sodipodi:nodetypes="ccc" />
+        <path
+           d="m 44.838143,218.00035 h 3.674962 v 2.97872"
+           fill="none"
+           id="path488"
+           style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10"
+           sodipodi:nodetypes="ccc" />
+        <path
+           id="path489"
+           style="stroke:#000000;stroke-width:0.264583;stroke-miterlimit:10;stroke-dasharray:none"
+           d="m 43.956183,213.82546 v 4.30722 m 0.88196,-5.04111 v 5.775" />
+        <path
+           d="m 46.513108,213.96843 v 0.6757 l -1.560815,-0.6757 1.560815,-0.6757 z"
+           stroke="none"
+           id="path490"
+           style="stroke-width:0.264649;stroke-miterlimit:10" />
+        <path
+           d="M 43.956183,215.97907 H 41.513105"
+           fill="none"
+           id="path491"
+           style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10" />
+      </g>
+      <g
+         transform="translate(-168.13716,278.92075)"
+         id="g492">
+        <text
+           x="220.84665"
+           y="-61.999996"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+           xml:space="preserve"
+           id="text491"><tspan
+             x="220.84665"
+             y="-61.999996"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:end;text-anchor:end;stroke-width:0.264583"
+             id="tspan491">M</tspan></text>
+        <text
+           x="221.06665"
+           y="-61.473885"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+           xml:space="preserve"
+           id="text492"><tspan
+             x="221.06665"
+             y="-61.473885"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+             id="tspan492">1</tspan></text>
+      </g>
+      <title
+         id="title70">mos: pmos analog</title>
+    </symbol>
+    <symbol
+       id="circuitikz_0.5mm_grid.svg:capacitor1"
+       style="stroke-width:1.33342">
+      <g
+         transform="matrix(0.7498994,0,0,0.75,12.241833,7.243453)"
+         id="g49">
+        <title
+           id="title9">capacior: small</title>
+        <g
+           fill="none"
+           style="stroke-width:1.33342"
+           id="g10">
+          <path
+             d="m 8.3628218,66.299967 v -8.950019 m 0,-2.099954 v -8.950019"
+             style="stroke:#000000;stroke-width:0.352889;stroke-miterlimit:10"
+             id="path9" />
+          <path
+             d="M 5.2128071,57.349948 H 11.512836 M 5.2128071,55.249994 h 6.3000289"
+             style="stroke:#000000;stroke-width:0.352801;stroke-miterlimit:10"
+             id="path10" />
+        </g>
+        <g
+           style="stroke-width:1.33342"
+           id="g11"
+           transform="translate(-0.58703502,0.64821098)">
+          <text
+             class="f0"
+             x="2.6152604"
+             y="57.056583"
+             style="font-size:4.70402px;font-family:'Latin Modern Roman Slanted';text-align:end;text-anchor:end;stroke-width:0.354213;stroke-miterlimit:10"
+             id="text10-0">C</text>
+          <text
+             class="f1"
+             x="2.7536387"
+             y="57.583771"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29281px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.354213;stroke-miterlimit:10"
+             id="text11">1</text>
+        </g>
+      </g>
+      <title
+         id="title47">capacior</title>
+    </symbol>
+    <symbol
+       id="circuitikz_0.5mm_grid.svg:diode5">
+      <title
+         id="title1">circuitikz_0.5mm_grid.svg:diode5_inkscape_duplicate</title>
+      <g
+         id="diode5_transform"
+         transform="matrix(0.75,0,0,0.75,7.3204186,-11.582904)">
+        <title
+           id="title3">diode: photodiode</title>
+        <path
+           d="m 88.362832,121.29997 v -7.90004 m 0,-4.19991 v -7.90004"
+           fill="none"
+           id="path3"
+           style="stroke:#000000;stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none" />
+        <path
+           id="path5"
+           style="fill:none;stroke:#000000;stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none"
+           d="m 90.987818,109.20002 h -5.249972 m 2.624986,0 -2.624986,4.19991 h 5.249972 z" />
+        <path
+           d="m 83.112859,110.03999 1.791992,1.4336"
+           fill="none"
+           id="path6"
+           style="fill:none;stroke:#000000;stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none" />
+        <path
+           d="m 85.737844,112.13994 c -0.291556,-0.34707 -0.805246,-0.98567 -0.971863,-1.63122 0.04167,0.65944 -0.180445,0.93711 -0.832941,1.04125 0.666383,0.0208 1.402191,0.38173 1.804804,0.58997 z"
+           stroke="none"
+           id="path7"
+           style="stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none" />
+        <path
+           d="m 83.637849,108.78003 1.791991,1.43361"
+           fill="none"
+           id="path13"
+           style="stroke:#000000;stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none" />
+        <path
+           d="m 86.262837,110.87999 c -0.291556,-0.34707 -0.805246,-0.98567 -0.971863,-1.63122 0.04167,0.65944 -0.180445,0.93711 -0.832941,1.04125 0.666383,0.0208 1.402191,0.38173 1.804804,0.58997 z"
+           stroke="none"
+           id="path14"
+           style="stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none" />
+        <title
+           id="title28">diode: photodiode</title>
+      </g>
+    </symbol>
+    <symbol
+       id="circuitikz_0.5mm_grid.svg:diode4">
+      <title
+         id="title1-9">circuitikz_0.5mm_grid.svg:diode4_inkscape_duplicate</title>
+      <g
+         id="diode4_transform"
+         transform="matrix(0.75,0,0,0.75,8.9582132,-11.582904)">
+        <title
+           id="title17">diode: light emitting</title>
+        <path
+           d="m 68.362832,121.29997 v -7.90004 m 0,-4.19991 v -7.90004"
+           fill="none"
+           id="path17"
+           style="stroke:#000000;stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none" />
+        <path
+           id="path19"
+           style="fill:none;stroke:#000000;stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none"
+           d="m 70.987818,109.20002 h -5.249972 m 2.624986,0 -2.624986,4.19991 h 5.249972 z" />
+        <path
+           d="m 65.737846,112.13994 -1.791992,-1.43359"
+           fill="none"
+           id="path21"
+           style="stroke:#000000;stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none" />
+        <path
+           d="m 63.112861,110.03999 c 0.291556,0.34707 0.805246,0.98567 0.971863,1.63122 -0.04167,-0.65944 0.180445,-0.93711 0.832941,-1.04125 -0.666383,-0.0208 -1.402191,-0.38173 -1.804804,-0.58997 z"
+           stroke="none"
+           id="path22"
+           style="stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none" />
+        <path
+           d="m 66.262835,110.88 -1.791992,-1.43361"
+           fill="none"
+           id="path23"
+           style="stroke:#000000;stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none" />
+        <path
+           d="m 63.637851,108.78004 c 0.291556,0.34707 0.805246,0.98567 0.971863,1.63122 -0.04167,-0.65944 0.180445,-0.93711 0.832941,-1.04125 -0.666383,-0.0208 -1.402191,-0.38173 -1.804804,-0.58997 z"
+           stroke="none"
+           id="path24"
+           style="stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none" />
+        <title
+           id="title21">diode: light emitting</title>
+      </g>
+    </symbol>
+    <symbol
+       id="circuitikz_0.5mm_grid.svg:resistor1"
+       style="stroke-width:1.33342">
+      <g
+         transform="matrix(0.7498994,0,0,0.75,11.241833,3.6209769)"
+         id="g42">
+        <title
+           id="title1-3">resistor: small</title>
+        <g
+           fill="none"
+           style="stroke-width:1.33342"
+           id="g2">
+          <path
+             d="m 8.3628218,36.299968 v -5.650517 m 0,-8.689538 v -5.659937"
+             style="stroke:#000000;stroke-width:0.352889;stroke-miterlimit:10"
+             id="path1-67" />
+          <path
+             d="M 8.4469339,30.798589 6.7907797,29.778456 9.9378256,28.333815 6.787818,26.88972 9.9378256,25.445624 6.787818,24.001525 9.9378256,22.557426 8.2590751,21.799179"
+             style="stroke:#000000;stroke-width:0.352801;stroke-linejoin:bevel;stroke-miterlimit:10"
+             id="path2-5"
+             sodipodi:nodetypes="cccccccc" />
+        </g>
+        <g
+           style="stroke-width:1.33342"
+           id="g3"
+           transform="translate(-0.83410134,0.59609181)">
+          <text
+             class="f0"
+             x="4.3319635"
+             y="27.056585"
+             style="font-size:4.70402px;font-family:'Latin Modern Roman Slanted';text-align:end;text-anchor:end;stroke-width:0.354213;stroke-miterlimit:10"
+             id="text2-3">R</text>
+          <text
+             class="f1"
+             x="4.4861627"
+             y="27.583771"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29281px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.354213;stroke-miterlimit:10"
+             id="text3-5">1</text>
+        </g>
+      </g>
+      <title
+         id="title42">resistor</title>
+    </symbol>
+    <symbol
+       id="circuitikz_0.5mm_grid.svg:ground1"><path
+   d="M 8.36282,0.40001863"
+   fill="none"
+   style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10"
+   id="path419" />
+<path
+   d="M 8.36282,0.40001863 V 4.4429286"
+   fill="none"
+   style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10"
+   id="path420" />
+<path
+   id="path421"
+   style="stroke:#000000;stroke-width:0.246944;stroke-miterlimit:10;stroke-dasharray:none"
+   d="m 6.26281,4.4429286 h 4.20002 M 6.96285,5.3714523 H 9.76279 M 7.48783,6.2999759 h 1.74998" />
+     <title
+   id="title421">ground</title>
+</symbol>
+    <symbol
+       id="circuitikz_0.5mm_grid.svg:mos14">
+      <title
+         id="title375">mos: pmos analog</title>
+      <path
+         d="M 73.362826,257.29997"
+         fill="none"
+         id="path376"
+         style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10" />
+      <g
+         id="g382">
+        <path
+           d="m 68.362832,252.29997 v 2.97872 H 64.68787"
+           fill="none"
+           id="path377"
+           style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10"
+           sodipodi:nodetypes="ccc" />
+        <path
+           d="m 64.68787,254.41247 v 1.58814 m 0,0.57749 v 1.44374 m 0,0.57749 v 1.58814"
+           fill="none"
+           id="path378"
+           style="stroke:#000000;stroke-width:0.264583;stroke-miterlimit:10;stroke-dasharray:none" />
+        <path
+           d="m 64.68787,257.29997 h 3.674962 m -3.674962,2.02128 h 3.674962 v 2.97872"
+           fill="none"
+           id="path379"
+           style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           d="m 63.80591,255.14636 v 4.30722"
+           fill="none"
+           id="path380"
+           style="stroke:#000000;stroke-width:0.264583;stroke-miterlimit:10;stroke-dasharray:none" />
+        <path
+           d="m 65.599219,257.29997 v -0.6757 l 1.560816,0.6757 -1.560816,0.6757 z"
+           stroke="none"
+           id="path381"
+           style="stroke-width:0.264649;stroke-miterlimit:10" />
+        <path
+           d="M 63.80591,257.29997 H 61.362832"
+           fill="none"
+           id="path382"
+           style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10" />
+      </g>
+      <g
+         transform="translate(-147.92105,320.24165)"
+         id="g385"
+         inkscape:transform-center-x="17.397538"
+         inkscape:transform-center-y="-0.83656513">
+        <text
+           x="220.84665"
+           y="-61.999996"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+           xml:space="preserve"
+           id="text382"><tspan
+             x="220.84665"
+             y="-61.999996"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:end;text-anchor:end;stroke-width:0.264583"
+             id="tspan382">M</tspan></text>
+        <text
+           x="221.06665"
+           y="-61.473885"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+           xml:space="preserve"
+           id="text385"><tspan
+             x="221.06665"
+             y="-61.473885"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+             id="tspan385">1</tspan></text>
+      </g>
+      <title
+         id="title83">mos: pmos analog</title>
+    </symbol>
+    <symbol
+       id="circuitikz_0.5mm_grid.svg:mos12">
+      <title
+         id="title413">mos: pmos analog</title>
+      <path
+         d="m 28.362832,252.29997 v 2.97872 H 24.68787"
+         fill="none"
+         id="path414"
+         style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10"
+         sodipodi:nodetypes="ccc" />
+      <path
+         d="m 24.68787,257.29997 h 3.674957 m -3.674957,2.02128 h 3.674962 v 2.98567"
+         fill="none"
+         id="path415"
+         style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path416"
+         style="stroke:#000000;stroke-width:0.264583;stroke-miterlimit:10;stroke-dasharray:none"
+         d="m 23.80591,255.14636 v 4.30722 m 0.88196,-5.04111 v 5.775" />
+      <path
+         d="m 25.599219,257.29997 v -0.6757 l 1.560816,0.6757 -1.560816,0.6757 z"
+         stroke="none"
+         id="path422"
+         style="stroke-width:0.264649;stroke-miterlimit:10" />
+      <path
+         d="M 23.80591,257.29997 H 21.362827"
+         fill="none"
+         id="path423"
+         style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10" />
+      <g
+         transform="translate(-188.16531,320.24165)"
+         id="g424">
+        <text
+           x="220.84665"
+           y="-61.999996"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+           xml:space="preserve"
+           id="text423"><tspan
+             x="220.84665"
+             y="-61.999996"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:end;text-anchor:end;stroke-width:0.264583"
+             id="tspan423">M</tspan></text>
+        <text
+           x="221.06665"
+           y="-61.473885"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+           xml:space="preserve"
+           id="text424"><tspan
+             x="221.06665"
+             y="-61.473885"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+             id="tspan424">1</tspan></text>
+      </g>
+      <title
+         id="title79">mos: pmos analog</title>
+    </symbol>
+    <symbol
+       id="circuitikz_0.5mm_grid.svg:mos11">
+      <title
+         id="title427">mos: nmos analog</title>
+      <g
+         id="g431">
+        <path
+           d="m 8.3628267,252.29997 -4.9e-6,2.97872 H 4.6878597"
+           fill="none"
+           id="path427"
+           style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10"
+           sodipodi:nodetypes="ccc" />
+        <path
+           d="m 4.6878597,257.29997 h 3.6749621 m -3.6749621,2.02128 h 3.6749621 v 2.97872"
+           fill="none"
+           id="path428"
+           style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path429"
+           style="stroke:#000000;stroke-width:0.264583;stroke-miterlimit:10;stroke-dasharray:none"
+           d="m 3.8058995,255.14636 v 4.30722 m 0.8819602,-5.04111 v 5.775" />
+        <path
+           d="m 6.716433,257.29997 v 0.6757 l -1.5608154,-0.6757 1.5608154,-0.6757 z"
+           stroke="none"
+           id="path430"
+           style="stroke-width:0.264649;stroke-miterlimit:10" />
+        <path
+           d="M 3.8058995,257.29997 H 1.3628216"
+           fill="none"
+           id="path431"
+           style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10" />
+      </g>
+      <g
+         transform="translate(-208.28744,320.24165)"
+         id="g432">
+        <text
+           x="220.84665"
+           y="-61.999996"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+           xml:space="preserve"
+           id="text431"><tspan
+             x="220.84665"
+             y="-61.999996"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:end;text-anchor:end;stroke-width:0.264583"
+             id="tspan431">M</tspan></text>
+        <text
+           x="221.06665"
+           y="-61.473885"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+           xml:space="preserve"
+           id="text432"><tspan
+             x="221.06665"
+             y="-61.473885"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+             id="tspan432">1</tspan></text>
+      </g>
+      <title
+         id="title78">mos: nmos analog</title>
+    </symbol>
+    <symbol
+       id="circuitikz_0.5mm_grid.svg:supply1">
+      <title
+         id="title12">vdd</title>
+      <path
+         style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.705556;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m 432.5131,28.968435 h 10.00001"
+         id="path1" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 437.51309,28.968435 v 1.999999"
+         id="path2" />
+      <g
+         id="use215-5"
+         transform="translate(229.75797,87.661945)">
+        <title
+           id="title2">label2</title>
+        <text
+           x="215.75513"
+           y="-57.746479"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+           xml:space="preserve"
+           id="text3"><tspan
+             x="215.75513"
+             y="-57.746479"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:end;text-anchor:end;stroke-width:0.264583"
+             id="tspan2">V</tspan></text>
+        <text
+           x="215.88588"
+           y="-57.231068"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:0;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-decoration-color:#000000;letter-spacing:0.0978958px;word-spacing:0px;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+           xml:space="preserve"
+           id="text4"><tspan
+             x="215.88588"
+             y="-57.231068"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:0;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';letter-spacing:0.0978958px;word-spacing:0px;stroke-width:0.264583"
+             id="tspan3">DD</tspan></text>
+        <title
+           id="title4">label2</title>
+      </g>
+      <title
+         id="title14">vdd</title>
+    </symbol>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath330">
+      <path
+         id="path331"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352801"
+         d="m -20.471638,-24.293922 v 6.39065 h 2.821909 c -0.0025,-0.02409 0.0076,-0.05476 0.01447,-0.07372 0.01037,-0.01281 0.01701,-0.02992 0.03101,-0.03859 0.0194,-0.01203 0.03598,-0.01775 0.05237,-0.0193 0.0021,-0.01714 0.0062,-0.03235 0.01238,-0.04479 0.0041,-0.03681 0.01196,-0.07512 0.02893,-0.08475 0.0021,-0.0011 0.0036,-0.0025 0.0055,-0.0035 -0.02188,-0.07826 0.02022,-0.132479 0.0696,-0.137802 0.0025,-2.69e-4 0.005,-7.06e-4 0.0076,-7.06e-4 0.02096,-1.27e-4 0.04205,0.0098 0.05995,0.02893 0.05634,-0.01348 0.0843,0.01129 0.104055,0.04478 0.0086,-0.0038 0.01736,-0.0075 0.02618,-0.01101 0.0284,-0.0127 0.05715,-0.02491 0.08545,-0.03789 0.0308,-0.0145 0.06257,-0.02692 0.09372,-0.04065 0.02501,-0.01009 0.05033,-0.02018 0.07511,-0.03101 -0.0074,-0.01612 -0.01376,-0.02928 -0.02618,-0.05856 -0.01817,-0.04261 -0.03669,-0.08552 -0.05306,-0.128849 -0.0235,-0.06222 -0.04726,-0.126485 -0.051,-0.193615 -0.0048,-0.0874 0.03161,-0.130538 0.07305,-0.130224 0.04146,3.53e-4 0.08747,0.04415 0.103364,0.130224 0.0163,0.08825 0.05593,0.173091 0.09097,0.254939 0.01037,0.02431 0.01464,0.03404 0.02068,0.04754 0.0271,-0.01058 0.05506,-0.01923 0.08338,-0.02618 0.04586,-0.0109 0.09108,-0.0235 0.137821,-0.0303 0.05935,-0.0091 0.119554,-0.01693 0.177792,-0.03168 0.02286,-0.0081 0.04478,-0.01764 0.06478,-0.03101 -0.01732,-0.02438 -0.0326,-0.04557 -0.05444,-0.07855 -0.08701,-0.131462 -0.175184,-0.266153 -0.234988,-0.412721 -0.04134,-0.101308 0.0018,-0.17441 0.05651,-0.175701 0.03281,-7.06e-4 0.06964,0.02424 0.0951,0.08475 0.06095,0.144893 0.146303,0.278032 0.232918,0.408591 0.04077,0.06145 0.06885,0.102627 0.09786,0.144004 0.0036,-0.0099 0.01926,-0.02117 0.02618,-0.0303 0.02876,-0.0379 0.103308,-0.114106 0.13231,-0.144691 0.04733,-0.04993 0.09477,-0.06113 0.128174,-0.04823 0.04237,-0.03704 0.06136,-0.05451 0.105435,-0.08957 0.0021,-0.0018 0.0046,-0.0041 0.0069,-0.0069 -0.0115,-0.02455 -0.01785,-0.0577 -0.0096,-0.09922 0,-0.0018 -1.1e-4,-0.0037 7.05e-4,-0.0055 0.01284,-0.0755 0.05374,-0.112244 0.09303,-0.115066 0.02142,-0.0014 0.04213,0.0077 0.05788,0.02551 0.04083,-0.05299 0.08134,-0.106387 0.120596,-0.160542 0.04313,-0.06057 0.07874,-0.126055 0.112325,-0.192236 0.007,-0.01482 0.0139,-0.02988 0.02068,-0.04479 -0.0052,-0.005 -0.0086,-0.0088 -0.03101,-0.02963 -0.08705,-0.08062 -0.05968,-0.166035 0.0076,-0.175698 0.0011,-0.04835 0.03398,-0.07904 0.07305,-0.082 0.0018,-1.34e-4 0.0037,1.8e-5 0.0055,0 0.01799,-1.55e-4 0.03642,0.0069 0.05375,0.0193 0.01634,-0.04119 0.03569,-0.08112 0.05582,-0.120579 0.01909,-0.03722 0.04196,-0.07171 0.06753,-0.104729 0.01672,-0.02145 0.0084,-0.01065 0.02551,-0.03239 0.02343,-0.02967 0.04874,-0.04758 0.07236,-0.0565 3.25e-4,-0.0055 1.23e-4,-0.01104 7.06e-4,-0.01655 0.0018,-0.03783 0.0048,-0.0508 0.0096,-0.08751 0.0069,-0.03186 0.01535,-0.09349 0.06064,-0.09853 0.0046,-0.02342 1.23e-4,-0.05577 0.02138,-0.06477 0.02152,-0.0092 0.04463,-0.01221 0.06822,-0.01309 0.0018,-0.04604 0.008,-0.0915 0.0138,-0.137114 3.53e-4,-0.0025 0.0073,-0.04959 0.01655,-0.08337 -0.0014,7.8e-5 -0.0028,7.06e-4 -0.0041,7.06e-4 -0.174832,0.0092 -0.173611,-0.154503 0,-0.177081 0.03031,-0.004 0.0644,-0.0082 0.09648,-0.01034 0.0055,-3.53e-4 0.01108,-7.06e-4 0.01655,-7.06e-4 0.01644,-3.49e-4 0.03317,-3.28e-4 0.04961,7.06e-4 0.05123,0.0021 0.08463,0.02011 0.104747,0.04272 0.01429,-0.0067 0.03186,-0.0109 0.05237,-0.01171 0.01358,-7.05e-4 0.02862,7.06e-4 0.04479,0.0035 v -0.44717 c -0.0044,7.05e-4 -0.0082,0.0014 -0.01309,0.0021 -0.02741,0.0028 -0.05448,0.0072 -0.082,0.009 -0.02745,-0.0014 -0.04899,-0.0076 -0.06685,-0.01792 -0.0021,-3.5e-5 -0.0042,6e-5 -0.0062,0 -0.04562,-3.5e-5 -0.09093,-0.0011 -0.136444,-0.0048 -0.01976,-0.0014 -0.08845,-0.0073 -0.107503,-0.01379 -0.02484,-0.0084 -0.04727,-0.02198 -0.07098,-0.03306 0.0018,-0.03926 -0.0038,-0.07978 0.0014,-0.118512 -0.01125,-0.0018 -0.02255,-0.0032 -0.03376,-0.0055 -0.03295,-0.03904 -0.08718,-0.06731 -0.09854,-0.117132 -0.0071,-0.03119 0.03031,-0.05747 0.05375,-0.07924 0.01556,-0.01443 0.03853,-0.01852 0.05857,-0.02551 0.04061,-0.01418 0.08222,-0.02466 0.124043,-0.03447 -0.0048,-0.01718 -0.0071,-0.03543 -0.0076,-0.05374 0.0018,-0.02046 0.0032,-0.05482 0.01792,-0.07235 -0.02272,-0.0429 -0.04573,-0.08553 -0.06891,-0.128157 -0.0052,-0.0045 -0.01027,-0.0096 -0.01584,-0.01309 -0.0139,-0.01824 -0.02928,-0.03534 -0.04204,-0.05443 -7.06e-4,-0.0011 -0.0014,-0.0025 -0.0021,-0.0035 -0.0206,-0.01266 -0.04067,-0.03545 -0.0572,-0.07097 -0.01923,-0.04129 -0.03735,-0.08336 -0.05513,-0.125402 -0.0055,2.01e-4 -0.01104,-3.53e-4 -0.01655,7.05e-4 -0.129797,0.0035 -0.259552,0.0057 -0.389346,0.0021 -0.251014,0.619711 -0.822637,0.590169 -0.948218,0.130225 -0.279038,0.303784 -0.794907,0.102206 -0.825557,-0.604958 -0.0072,-0.165788 -0.0157,-0.331629 -0.02343,-0.497473 -0.03239,-0.08732 -0.05559,-0.189269 -0.06547,-0.306613 -0.009,-0.10728 -0.02223,-0.214306 -0.02893,-0.321772 -0.01429,-0.22895 0.02198,-0.403218 0.08821,-0.525032 0.0011,-0.01196 0.0018,-0.02388 0.0028,-0.03583 z m 4.991921,0.04272 c -7.05e-4,2.8e-5 -0.0014,0.0014 -0.0021,0.0041 -0.0064,0.02381 -0.0092,0.04842 -0.01171,0.07304 0.0018,-0.0018 0.0037,-0.0032 0.0055,-0.0048 0.01492,-0.01337 0.01115,-0.07254 0.0083,-0.07235 z m 0.642255,0.172945 c 0.01965,0.02004 0.03994,0.03904 0.06202,0.0565 0.01905,0.01506 -0.02614,-0.04681 -0.04962,-0.05305 -0.0048,-0.0014 -0.0078,-0.0021 -0.01238,-0.0035 z m -0.303899,0.928797 c -0.0032,0.0068 -0.0066,0.01379 -0.0096,0.02067 0.0046,-0.0018 0.0092,-0.0036 0.0138,-0.0048 -1.16e-4,-0.0052 -1.87e-4,-0.0103 0,-0.01517 -0.0014,-2.11e-4 -0.0028,3.53e-4 -0.0041,-7.05e-4 z m 0.18675,0.0014 c -0.0025,3.53e-4 -0.0045,-3.52e-4 -0.0069,7.06e-4 7.06e-4,0.0058 0.0011,0.01161 0.0014,0.01792 0.0011,0.01503 7.05e-4,0.01849 0.0048,0.03652 0.01306,0.05928 0.02964,0.117764 0.04824,0.175697 0.01161,-3.53e-4 0.02646,0.0032 0.04755,0.01101 -0.0308,-0.08092 -0.06265,-0.161541 -0.0951,-0.241844 z m 0.443096,7.06e-4 c -0.04413,-0.0032 -0.09236,0.05719 -0.146779,0.213596 -0.0229,0.0658 -0.04716,0.131159 -0.0696,0.197058 0.0095,0.01972 0.01574,0.04455 0.01722,0.07442 0.0025,0.05111 0.0063,0.101953 0.01034,0.152961 0.0018,0.02286 0.0049,0.04577 0.009,0.06821 0.0011,-1.48e-4 0.0018,-7.05e-4 0.0028,-7.05e-4 0.04392,-0.0052 0.0931,0.03295 0.103367,0.119888 0.0028,0.02529 0.0066,0.05055 0.0096,0.07579 0.01468,-0.04441 0.04382,-0.06862 0.07374,-0.07235 0.0028,-3.52e-4 0.006,-7.05e-4 0.009,-7.05e-4 v -0.82338 c -0.0061,-0.0028 -0.01231,-0.0044 -0.01859,-0.0048 z m -0.344555,0.365869 c 0.0011,0.0018 0.0028,0.0059 0.0035,0.0076 l 7.06e-4,-7.06e-4 c -3.5e-5,-0.0014 1.09e-4,-0.0028 -7.06e-4,-0.0062 -0.0011,-1.86e-4 -0.0021,-1.94e-4 -0.0035,-7.05e-4 z m -0.492025,0.01379 c -0.0082,0.04576 -0.01641,0.09155 -0.02551,0.137114 0.01305,-0.01012 0.02533,-0.02021 0.0379,-0.0303 -0.0097,-0.03507 -0.01267,-0.0705 -0.01242,-0.1068 z m 0.330085,0.183278 c 0.0011,0.0062 0.0018,0.01245 0.0028,0.01859 -7.06e-4,-0.0063 -0.0021,-0.01277 -0.0021,-0.01859 z m -0.252217,0.09715 c -0.03975,0.03126 -0.08179,0.0644 -0.113701,0.08889 -0.02283,0.01732 -0.0357,0.02745 -0.05306,0.04065 -0.0044,0.01679 -0.0091,0.03355 -0.0138,0.0503 0.09047,0.0011 0.181017,3.53e-4 0.271513,-0.0028 -0.0018,-0.0046 -0.0032,-0.0092 -0.0048,-0.01379 0.0032,-0.0011 0.0066,-0.0021 0.0096,-0.0035 -0.004,-0.04142 -0.0074,-0.08307 -0.0083,-0.124714 0.0021,-0.0018 0.0042,-0.0042 0.0062,-0.0062 -7.06e-4,-0.0041 -0.0014,-0.0083 -0.0021,-0.01242 -0.02766,0.01609 -0.0629,0.01203 -0.09165,-0.01654 z m 0.432073,0.844737 c -0.0014,-0.0018 0.0011,0.0044 0.0028,0.0055 7.06e-4,3.53e-4 0.0014,0.0011 0.0021,0.0014 -0.0014,-0.0025 -0.0032,-0.0047 -0.0048,-0.0069 z m -0.03101,0.409966 c -0.0025,0.0011 -0.0047,0.0018 -0.0069,0.0028 -0.0021,0.0011 0.0059,0.0014 0.0062,-7.06e-4 1.69e-4,-7.05e-4 -3.53e-4,-0.0014 7.05e-4,-0.0021 z m -0.07373,0.934999 c -3.04e-4,0.0011 -7.06e-4,0.0038 -0.0014,0.0083 0.0011,1.98e-4 0.0018,1.24e-4 0.0028,7.06e-4 -3.53e-4,-0.0053 -0.0011,-0.0098 -0.0014,-0.009 z m 0.449989,0.374139 c -2.36e-4,0.0011 -1.59e-4,0.0018 -7.05e-4,0.0028 2.1e-5,3.53e-4 0,0.0011 0,0.0014 3.52e-4,0.0081 0.0011,0.0169 -0.0041,0.01654 -7.06e-4,0.0028 -0.0014,0.0055 -0.0021,0.0083 -0.02392,-0.0058 -0.04817,-0.0109 -0.07236,-0.01584 -0.01778,0.04559 -0.0355,0.09126 -0.05582,0.135735 -0.01369,0.03087 -0.02685,0.06254 -0.04135,0.09302 -0.01203,0.02526 -0.01337,0.06094 -0.0379,0.07441 -0.0169,0.0093 -0.03553,0.01725 -0.05444,0.02342 -0.0073,0.02582 -0.01567,0.05146 -0.02551,0.07648 -0.02325,0.05909 -0.03768,0.08186 -0.06753,0.137114 -0.04716,0.07276 -0.089,0.153433 -0.152985,0.213596 -0.0072,0.0068 -0.01584,0.01231 -0.02343,0.01859 -0.0014,7.05e-4 -0.0014,7.05e-4 -0.0028,0.0014 -0.0032,0.02431 -0.0061,0.04879 -0.0096,0.07304 -0.0093,0.0646 -0.04011,0.121476 -0.07236,0.177077 -0.02837,0.04899 -0.06355,0.09366 -0.101987,0.13505 -0.04059,0.04134 -0.08874,0.0744 -0.135065,0.108864 -0.01782,0.01337 -0.03637,0.02604 -0.05513,0.0379 -0.01111,0.04275 -0.02223,0.08559 -0.03377,0.128157 -0.0091,0.03362 -0.01852,0.06694 -0.02755,0.100598 -0.0061,0.02275 0.0042,0.06223 -0.01792,0.0689 h -7.05e-4 c -0.0091,0.04865 -0.01898,0.08178 -0.06685,0.05512 0.0085,0.0193 0.01683,0.0388 0.02756,0.05581 -0.01171,0.0044 -0.02343,0.0087 -0.03514,0.01309 -0.01006,0.03231 -0.06232,0.02526 -0.09372,0.03789 -0.03084,0.01242 -0.06152,0.02537 -0.09234,0.0379 0.06515,0.08899 -0.02724,0.186196 -0.148846,0.100595 -0.01214,-0.0085 -0.02406,-0.01665 -0.03652,-0.0248 -0.05466,0.02258 -0.1094,0.04499 -0.164007,0.06753 -0.0048,0.0018 -0.09608,0.0403 -0.114393,0.03996 -0.04208,-7.05e-4 -0.0689,-0.0059 -0.08338,-0.0193 -0.05029,0.01485 -0.09219,0.02741 -0.135753,0.03996 h 1.938471 z m -1.475387,0.284564 c 0.04288,-0.0028 0.0936,0.03496 0.111637,0.117821 0.0068,0.03136 0.01313,0.06303 0.01997,0.0944 0.03724,0.171055 -0.136787,0.2078 -0.172969,0.03652 -0.0077,-0.03632 -0.01517,-0.07254 -0.02272,-0.108864 -0.01866,-0.08833 0.01845,-0.136941 0.06409,-0.139873 z m -0.756644,1.359436 c -0.0054,0.0018 -0.01051,0.0037 -0.01584,0.0055 7.4e-5,0.0018 7.06e-4,0.0032 7.06e-4,0.0048 0.0051,-0.0035 0.01009,-0.0069 0.01517,-0.01034 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath387">
+      <path
+         id="path388"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 604.18165,283.65821 v 19.05273 c 0.0929,0.0541 0.18357,0.11144 0.27344,0.16993 h 0.002 c 0.009,0.002 0.0164,0.004 0.0254,0.006 0.0336,0.01 0.068,0.0193 0.10156,0.0293 0.13364,0.0382 0.26825,0.0669 0.40234,0.10352 0.0598,0.0141 0.11931,0.0315 0.17774,0.0508 v -19.41228 z m -0.0176,22.1582 c 0.0118,0.0253 0.0196,0.0412 0.0351,0.0742 -0.0123,-0.0264 -0.0249,-0.0502 -0.0351,-0.0742 z m 0.0176,52.67774 v 0.16601 h 0.34961 c -0.12126,-0.0259 -0.23998,-0.0813 -0.34961,-0.16601 z m 0.98243,0.0273 c -0.0961,0.0697 -0.20044,0.11549 -0.3086,0.13867 h 0.3086 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath330-9">
+      <path
+         id="path331-5"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352801"
+         d="m -20.471638,-24.293922 v 6.39065 h 2.821909 c -0.0025,-0.02409 0.0076,-0.05476 0.01447,-0.07372 0.01037,-0.01281 0.01701,-0.02992 0.03101,-0.03859 0.0194,-0.01203 0.03598,-0.01775 0.05237,-0.0193 0.0021,-0.01714 0.0062,-0.03235 0.01238,-0.04479 0.0041,-0.03681 0.01196,-0.07512 0.02893,-0.08475 0.0021,-0.0011 0.0036,-0.0025 0.0055,-0.0035 -0.02188,-0.07826 0.02022,-0.132479 0.0696,-0.137802 0.0025,-2.69e-4 0.005,-7.06e-4 0.0076,-7.06e-4 0.02096,-1.27e-4 0.04205,0.0098 0.05995,0.02893 0.05634,-0.01348 0.0843,0.01129 0.104055,0.04478 0.0086,-0.0038 0.01736,-0.0075 0.02618,-0.01101 0.0284,-0.0127 0.05715,-0.02491 0.08545,-0.03789 0.0308,-0.0145 0.06257,-0.02692 0.09372,-0.04065 0.02501,-0.01009 0.05033,-0.02018 0.07511,-0.03101 -0.0074,-0.01612 -0.01376,-0.02928 -0.02618,-0.05856 -0.01817,-0.04261 -0.03669,-0.08552 -0.05306,-0.128849 -0.0235,-0.06222 -0.04726,-0.126485 -0.051,-0.193615 -0.0048,-0.0874 0.03161,-0.130538 0.07305,-0.130224 0.04146,3.53e-4 0.08747,0.04415 0.103364,0.130224 0.0163,0.08825 0.05593,0.173091 0.09097,0.254939 0.01037,0.02431 0.01464,0.03404 0.02068,0.04754 0.0271,-0.01058 0.05506,-0.01923 0.08338,-0.02618 0.04586,-0.0109 0.09108,-0.0235 0.137821,-0.0303 0.05935,-0.0091 0.119554,-0.01693 0.177792,-0.03168 0.02286,-0.0081 0.04478,-0.01764 0.06478,-0.03101 -0.01732,-0.02438 -0.0326,-0.04557 -0.05444,-0.07855 -0.08701,-0.131462 -0.175184,-0.266153 -0.234988,-0.412721 -0.04134,-0.101308 0.0018,-0.17441 0.05651,-0.175701 0.03281,-7.06e-4 0.06964,0.02424 0.0951,0.08475 0.06095,0.144893 0.146303,0.278032 0.232918,0.408591 0.04077,0.06145 0.06885,0.102627 0.09786,0.144004 0.0036,-0.0099 0.01926,-0.02117 0.02618,-0.0303 0.02876,-0.0379 0.103308,-0.114106 0.13231,-0.144691 0.04733,-0.04993 0.09477,-0.06113 0.128174,-0.04823 0.04237,-0.03704 0.06136,-0.05451 0.105435,-0.08957 0.0021,-0.0018 0.0046,-0.0041 0.0069,-0.0069 -0.0115,-0.02455 -0.01785,-0.0577 -0.0096,-0.09922 0,-0.0018 -1.1e-4,-0.0037 7.05e-4,-0.0055 0.01284,-0.0755 0.05374,-0.112244 0.09303,-0.115066 0.02142,-0.0014 0.04213,0.0077 0.05788,0.02551 0.04083,-0.05299 0.08134,-0.106387 0.120596,-0.160542 0.04313,-0.06057 0.07874,-0.126055 0.112325,-0.192236 0.007,-0.01482 0.0139,-0.02988 0.02068,-0.04479 -0.0052,-0.005 -0.0086,-0.0088 -0.03101,-0.02963 -0.08705,-0.08062 -0.05968,-0.166035 0.0076,-0.175698 0.0011,-0.04835 0.03398,-0.07904 0.07305,-0.082 0.0018,-1.34e-4 0.0037,1.8e-5 0.0055,0 0.01799,-1.55e-4 0.03642,0.0069 0.05375,0.0193 0.01634,-0.04119 0.03569,-0.08112 0.05582,-0.120579 0.01909,-0.03722 0.04196,-0.07171 0.06753,-0.104729 0.01672,-0.02145 0.0084,-0.01065 0.02551,-0.03239 0.02343,-0.02967 0.04874,-0.04758 0.07236,-0.0565 3.25e-4,-0.0055 1.23e-4,-0.01104 7.06e-4,-0.01655 0.0018,-0.03783 0.0048,-0.0508 0.0096,-0.08751 0.0069,-0.03186 0.01535,-0.09349 0.06064,-0.09853 0.0046,-0.02342 1.23e-4,-0.05577 0.02138,-0.06477 0.02152,-0.0092 0.04463,-0.01221 0.06822,-0.01309 0.0018,-0.04604 0.008,-0.0915 0.0138,-0.137114 3.53e-4,-0.0025 0.0073,-0.04959 0.01655,-0.08337 -0.0014,7.8e-5 -0.0028,7.06e-4 -0.0041,7.06e-4 -0.174832,0.0092 -0.173611,-0.154503 0,-0.177081 0.03031,-0.004 0.0644,-0.0082 0.09648,-0.01034 0.0055,-3.53e-4 0.01108,-7.06e-4 0.01655,-7.06e-4 0.01644,-3.49e-4 0.03317,-3.28e-4 0.04961,7.06e-4 0.05123,0.0021 0.08463,0.02011 0.104747,0.04272 0.01429,-0.0067 0.03186,-0.0109 0.05237,-0.01171 0.01358,-7.05e-4 0.02862,7.06e-4 0.04479,0.0035 v -0.44717 c -0.0044,7.05e-4 -0.0082,0.0014 -0.01309,0.0021 -0.02741,0.0028 -0.05448,0.0072 -0.082,0.009 -0.02745,-0.0014 -0.04899,-0.0076 -0.06685,-0.01792 -0.0021,-3.5e-5 -0.0042,6e-5 -0.0062,0 -0.04562,-3.5e-5 -0.09093,-0.0011 -0.136444,-0.0048 -0.01976,-0.0014 -0.08845,-0.0073 -0.107503,-0.01379 -0.02484,-0.0084 -0.04727,-0.02198 -0.07098,-0.03306 0.0018,-0.03926 -0.0038,-0.07978 0.0014,-0.118512 -0.01125,-0.0018 -0.02255,-0.0032 -0.03376,-0.0055 -0.03295,-0.03904 -0.08718,-0.06731 -0.09854,-0.117132 -0.0071,-0.03119 0.03031,-0.05747 0.05375,-0.07924 0.01556,-0.01443 0.03853,-0.01852 0.05857,-0.02551 0.04061,-0.01418 0.08222,-0.02466 0.124043,-0.03447 -0.0048,-0.01718 -0.0071,-0.03543 -0.0076,-0.05374 0.0018,-0.02046 0.0032,-0.05482 0.01792,-0.07235 -0.02272,-0.0429 -0.04573,-0.08553 -0.06891,-0.128157 -0.0052,-0.0045 -0.01027,-0.0096 -0.01584,-0.01309 -0.0139,-0.01824 -0.02928,-0.03534 -0.04204,-0.05443 -7.06e-4,-0.0011 -0.0014,-0.0025 -0.0021,-0.0035 -0.0206,-0.01266 -0.04067,-0.03545 -0.0572,-0.07097 -0.01923,-0.04129 -0.03735,-0.08336 -0.05513,-0.125402 -0.0055,2.01e-4 -0.01104,-3.53e-4 -0.01655,7.05e-4 -0.129797,0.0035 -0.259552,0.0057 -0.389346,0.0021 -0.251014,0.619711 -0.822637,0.590169 -0.948218,0.130225 -0.279038,0.303784 -0.794907,0.102206 -0.825557,-0.604958 -0.0072,-0.165788 -0.0157,-0.331629 -0.02343,-0.497473 -0.03239,-0.08732 -0.05559,-0.189269 -0.06547,-0.306613 -0.009,-0.10728 -0.02223,-0.214306 -0.02893,-0.321772 -0.01429,-0.22895 0.02198,-0.403218 0.08821,-0.525032 0.0011,-0.01196 0.0018,-0.02388 0.0028,-0.03583 z m 4.991921,0.04272 c -7.05e-4,2.8e-5 -0.0014,0.0014 -0.0021,0.0041 -0.0064,0.02381 -0.0092,0.04842 -0.01171,0.07304 0.0018,-0.0018 0.0037,-0.0032 0.0055,-0.0048 0.01492,-0.01337 0.01115,-0.07254 0.0083,-0.07235 z m 0.642255,0.172945 c 0.01965,0.02004 0.03994,0.03904 0.06202,0.0565 0.01905,0.01506 -0.02614,-0.04681 -0.04962,-0.05305 -0.0048,-0.0014 -0.0078,-0.0021 -0.01238,-0.0035 z m -0.303899,0.928797 c -0.0032,0.0068 -0.0066,0.01379 -0.0096,0.02067 0.0046,-0.0018 0.0092,-0.0036 0.0138,-0.0048 -1.16e-4,-0.0052 -1.87e-4,-0.0103 0,-0.01517 -0.0014,-2.11e-4 -0.0028,3.53e-4 -0.0041,-7.05e-4 z m 0.18675,0.0014 c -0.0025,3.53e-4 -0.0045,-3.52e-4 -0.0069,7.06e-4 7.06e-4,0.0058 0.0011,0.01161 0.0014,0.01792 0.0011,0.01503 7.05e-4,0.01849 0.0048,0.03652 0.01306,0.05928 0.02964,0.117764 0.04824,0.175697 0.01161,-3.53e-4 0.02646,0.0032 0.04755,0.01101 -0.0308,-0.08092 -0.06265,-0.161541 -0.0951,-0.241844 z m 0.443096,7.06e-4 c -0.04413,-0.0032 -0.09236,0.05719 -0.146779,0.213596 -0.0229,0.0658 -0.04716,0.131159 -0.0696,0.197058 0.0095,0.01972 0.01574,0.04455 0.01722,0.07442 0.0025,0.05111 0.0063,0.101953 0.01034,0.152961 0.0018,0.02286 0.0049,0.04577 0.009,0.06821 0.0011,-1.48e-4 0.0018,-7.05e-4 0.0028,-7.05e-4 0.04392,-0.0052 0.0931,0.03295 0.103367,0.119888 0.0028,0.02529 0.0066,0.05055 0.0096,0.07579 0.01468,-0.04441 0.04382,-0.06862 0.07374,-0.07235 0.0028,-3.52e-4 0.006,-7.05e-4 0.009,-7.05e-4 v -0.82338 c -0.0061,-0.0028 -0.01231,-0.0044 -0.01859,-0.0048 z m -0.344555,0.365869 c 0.0011,0.0018 0.0028,0.0059 0.0035,0.0076 l 7.06e-4,-7.06e-4 c -3.5e-5,-0.0014 1.09e-4,-0.0028 -7.06e-4,-0.0062 -0.0011,-1.86e-4 -0.0021,-1.94e-4 -0.0035,-7.05e-4 z m -0.492025,0.01379 c -0.0082,0.04576 -0.01641,0.09155 -0.02551,0.137114 0.01305,-0.01012 0.02533,-0.02021 0.0379,-0.0303 -0.0097,-0.03507 -0.01267,-0.0705 -0.01242,-0.1068 z m 0.330085,0.183278 c 0.0011,0.0062 0.0018,0.01245 0.0028,0.01859 -7.06e-4,-0.0063 -0.0021,-0.01277 -0.0021,-0.01859 z m -0.252217,0.09715 c -0.03975,0.03126 -0.08179,0.0644 -0.113701,0.08889 -0.02283,0.01732 -0.0357,0.02745 -0.05306,0.04065 -0.0044,0.01679 -0.0091,0.03355 -0.0138,0.0503 0.09047,0.0011 0.181017,3.53e-4 0.271513,-0.0028 -0.0018,-0.0046 -0.0032,-0.0092 -0.0048,-0.01379 0.0032,-0.0011 0.0066,-0.0021 0.0096,-0.0035 -0.004,-0.04142 -0.0074,-0.08307 -0.0083,-0.124714 0.0021,-0.0018 0.0042,-0.0042 0.0062,-0.0062 -7.06e-4,-0.0041 -0.0014,-0.0083 -0.0021,-0.01242 -0.02766,0.01609 -0.0629,0.01203 -0.09165,-0.01654 z m 0.432073,0.844737 c -0.0014,-0.0018 0.0011,0.0044 0.0028,0.0055 7.06e-4,3.53e-4 0.0014,0.0011 0.0021,0.0014 -0.0014,-0.0025 -0.0032,-0.0047 -0.0048,-0.0069 z m -0.03101,0.409966 c -0.0025,0.0011 -0.0047,0.0018 -0.0069,0.0028 -0.0021,0.0011 0.0059,0.0014 0.0062,-7.06e-4 1.69e-4,-7.05e-4 -3.53e-4,-0.0014 7.05e-4,-0.0021 z m -0.07373,0.934999 c -3.04e-4,0.0011 -7.06e-4,0.0038 -0.0014,0.0083 0.0011,1.98e-4 0.0018,1.24e-4 0.0028,7.06e-4 -3.53e-4,-0.0053 -0.0011,-0.0098 -0.0014,-0.009 z m 0.449989,0.374139 c -2.36e-4,0.0011 -1.59e-4,0.0018 -7.05e-4,0.0028 2.1e-5,3.53e-4 0,0.0011 0,0.0014 3.52e-4,0.0081 0.0011,0.0169 -0.0041,0.01654 -7.06e-4,0.0028 -0.0014,0.0055 -0.0021,0.0083 -0.02392,-0.0058 -0.04817,-0.0109 -0.07236,-0.01584 -0.01778,0.04559 -0.0355,0.09126 -0.05582,0.135735 -0.01369,0.03087 -0.02685,0.06254 -0.04135,0.09302 -0.01203,0.02526 -0.01337,0.06094 -0.0379,0.07441 -0.0169,0.0093 -0.03553,0.01725 -0.05444,0.02342 -0.0073,0.02582 -0.01567,0.05146 -0.02551,0.07648 -0.02325,0.05909 -0.03768,0.08186 -0.06753,0.137114 -0.04716,0.07276 -0.089,0.153433 -0.152985,0.213596 -0.0072,0.0068 -0.01584,0.01231 -0.02343,0.01859 -0.0014,7.05e-4 -0.0014,7.05e-4 -0.0028,0.0014 -0.0032,0.02431 -0.0061,0.04879 -0.0096,0.07304 -0.0093,0.0646 -0.04011,0.121476 -0.07236,0.177077 -0.02837,0.04899 -0.06355,0.09366 -0.101987,0.13505 -0.04059,0.04134 -0.08874,0.0744 -0.135065,0.108864 -0.01782,0.01337 -0.03637,0.02604 -0.05513,0.0379 -0.01111,0.04275 -0.02223,0.08559 -0.03377,0.128157 -0.0091,0.03362 -0.01852,0.06694 -0.02755,0.100598 -0.0061,0.02275 0.0042,0.06223 -0.01792,0.0689 h -7.05e-4 c -0.0091,0.04865 -0.01898,0.08178 -0.06685,0.05512 0.0085,0.0193 0.01683,0.0388 0.02756,0.05581 -0.01171,0.0044 -0.02343,0.0087 -0.03514,0.01309 -0.01006,0.03231 -0.06232,0.02526 -0.09372,0.03789 -0.03084,0.01242 -0.06152,0.02537 -0.09234,0.0379 0.06515,0.08899 -0.02724,0.186196 -0.148846,0.100595 -0.01214,-0.0085 -0.02406,-0.01665 -0.03652,-0.0248 -0.05466,0.02258 -0.1094,0.04499 -0.164007,0.06753 -0.0048,0.0018 -0.09608,0.0403 -0.114393,0.03996 -0.04208,-7.05e-4 -0.0689,-0.0059 -0.08338,-0.0193 -0.05029,0.01485 -0.09219,0.02741 -0.135753,0.03996 h 1.938471 z m -1.475387,0.284564 c 0.04288,-0.0028 0.0936,0.03496 0.111637,0.117821 0.0068,0.03136 0.01313,0.06303 0.01997,0.0944 0.03724,0.171055 -0.136787,0.2078 -0.172969,0.03652 -0.0077,-0.03632 -0.01517,-0.07254 -0.02272,-0.108864 -0.01866,-0.08833 0.01845,-0.136941 0.06409,-0.139873 z m -0.756644,1.359436 c -0.0054,0.0018 -0.01051,0.0037 -0.01584,0.0055 7.4e-5,0.0018 7.06e-4,0.0032 7.06e-4,0.0048 0.0051,-0.0035 0.01009,-0.0069 0.01517,-0.01034 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath424">
+      <path
+         id="path425"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 680.25002,226.25782 v 1.03711 h 95.36914 c -0.0248,-0.0551 -0.0474,-0.1147 -0.0684,-0.17774 -0.0566,-0.1699 -0.11768,-0.33843 -0.17578,-0.50781 -0.0379,-0.10377 -0.0764,-0.20719 -0.12891,-0.30469 -0.008,-0.0157 -0.0156,-0.0314 -0.0234,-0.0469 z m 96.9082,0 c -0.0507,0.0941 -0.0306,0.13616 0.0391,0.14258 0.009,-0.0424 0.0131,-0.0892 0.0254,-0.12696 -0.002,-0.005 -0.004,-0.009 -0.006,-0.0137 -0.003,-7.1e-4 -0.007,-9e-4 -0.01,-0.002 z" />
+    </clipPath>
+    <symbol
+       id="circuitikz_0.5mm_grid.svg:text6">
+      <title
+         id="title31">text: greek letters</title>
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="406.35403"
+         y="51.746918"
+         id="text158"><tspan
+           sodipodi:role="line"
+           id="tspan158"
+           style="stroke-width:0.264583"
+           x="406.35403"
+           y="51.746918">Α, Β, Γ, Δ, Ε, Ζ,</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="406.35403"
+           y="56.597618"
+           id="tspan25">Η, Θ, Ι, Κ, Λ, Μ,</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="406.35403"
+           y="61.448318"
+           id="tspan26">Ν, Ξ, Ο, Π, Ρ, Σ,</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="406.35403"
+           y="66.299019"
+           id="tspan27">Τ, Υ, Φ, Χ, Ψ, Ω</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman,  Italic';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="406.46988"
+         y="72.731392"
+         id="text159"><tspan
+           sodipodi:role="line"
+           id="tspan159"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+           x="406.46988"
+           y="72.731392">𝛼, 𝛽, 𝛾, 𝛿, 𝜀, 𝜁,</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+           x="406.46988"
+           y="77.582092"
+           id="tspan28">𝜂, 𝜃, 𝜄, 𝜅, 𝜆, 𝜇,</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+           x="406.46988"
+           y="82.432793"
+           id="tspan29">𝜈, 𝜉, 𝜊, 𝜋, 𝜌, 𝜍, 𝜎,</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+           x="406.46988"
+           y="87.283493"
+           id="tspan30">𝜏, 𝜐, 𝜑, 𝜒, 𝜓, 𝜔,</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+           x="406.46988"
+           y="92.134193"
+           id="tspan31">𝜕, 𝜖, 𝜗, 𝜘, 𝜙, 𝜚, 𝜛</tspan></text>
+      <title
+         id="title32">text: greek letters</title>
+    </symbol>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-379.28128,-156.71598)">
+    <g
+       id="use1-2"
+       transform="matrix(3.7795278,0,0,3.7795278,685.67145,237.97461)">
+      <g
+         transform="matrix(0.7498994,0,0,0.75,12.241833,7.243453)"
+         id="g51">
+        <title
+           id="title46">capacior: small</title>
+        <g
+           fill="none"
+           style="stroke-width:1.33342"
+           id="g48">
+          <path
+             d="m 8.3628218,66.299967 v -8.950019 m 0,-2.099954 v -8.950019"
+             style="stroke:#000000;stroke-width:0.352889;stroke-miterlimit:10"
+             id="path47" />
+          <path
+             d="M 5.2128071,57.349948 H 11.512836 M 5.2128071,55.249994 h 6.3000289"
+             style="stroke:#000000;stroke-width:0.352801;stroke-miterlimit:10"
+             id="path48" />
+        </g>
+        <g
+           style="stroke-width:1.33342"
+           id="g50"
+           transform="translate(-0.58703502,0.64821098)">
+          <text
+             class="f0"
+             x="2.6152604"
+             y="57.056583"
+             style="font-size:4.70402px;font-family:'Latin Modern Roman Slanted';text-align:end;text-anchor:end;stroke-width:0.354213;stroke-miterlimit:10"
+             id="text48">C</text>
+          <text
+             class="f1"
+             x="2.7536387"
+             y="57.583771"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29281px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.354213;stroke-miterlimit:10"
+             id="text49">4</text>
+          <ellipse
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.348023;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="path100"
+             cx="-17.482338"
+             cy="-21.098579"
+             rx="2.882447"
+             ry="3.0879221"
+             clip-path="url(#clipPath330)" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.34669;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             d="m -17.628689,-18.010415 0.01041,3.734379 v 0"
+             id="path284" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.34669;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             d="m -17.711917,-27.726038 0.05202,3.536738 v 0"
+             id="path285" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.34669;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             d="M -17.722318,-28.246145 Z"
+             id="path286" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.34669;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             d="m -17.722318,-28.194135 0.03119,0.956998 v 0"
+             id="path287" />
+        </g>
+      </g>
+      <title
+         id="title51">capacior</title>
+    </g>
+    <g
+       id="use1-2-7"
+       transform="matrix(3.7795278,0,0,3.7795278,459.07572,238.57134)">
+      <g
+         transform="matrix(0.7498994,0,0,0.75,12.241833,7.243453)"
+         id="g55">
+        <title
+           id="title52">capacior: small</title>
+        <g
+           fill="none"
+           style="stroke-width:1.33342"
+           id="g53">
+          <path
+             d="m 8.3628218,66.299967 v -8.950019 m 0,-2.099954 v -8.950019"
+             style="stroke:#000000;stroke-width:0.352889;stroke-miterlimit:10"
+             id="path52" />
+          <path
+             d="M 5.2128071,57.349948 H 11.512836 M 5.2128071,55.249994 h 6.3000289"
+             style="stroke:#000000;stroke-width:0.352801;stroke-miterlimit:10"
+             id="path53" />
+        </g>
+        <g
+           style="stroke-width:1.33342"
+           id="g54"
+           transform="translate(-0.58703502,0.64821098)">
+          <text
+             class="f0"
+             x="2.6152604"
+             y="57.056583"
+             style="font-size:4.70402px;font-family:'Latin Modern Roman Slanted';text-align:end;text-anchor:end;stroke-width:0.354213;stroke-miterlimit:10"
+             id="text53">C</text>
+          <text
+             class="f1"
+             x="2.7536387"
+             y="57.583771"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29281px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.354213;stroke-miterlimit:10"
+             id="text54">3</text>
+        </g>
+      </g>
+      <title
+         id="title55">capacior</title>
+    </g>
+    <g
+       id="use1-28"
+       transform="matrix(-3.7795278,0,0,-3.7795278,643.34109,659.55229)">
+      <title
+         id="title56">circuitikz_0.5mm_grid.svg:diode4_inkscape_duplicate</title>
+      <g
+         id="g62"
+         transform="matrix(0.75,0,0,0.75,8.9582132,-11.582904)">
+        <title
+           id="title57">diode: light emitting</title>
+        <path
+           d="m 68.362832,121.29997 v -7.90004 m 0,-4.19991 v -7.90004"
+           fill="none"
+           id="path57"
+           style="stroke:#000000;stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none" />
+        <path
+           id="path58"
+           style="fill:none;stroke:#000000;stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none"
+           d="m 70.987818,109.20002 h -5.249972 m 2.624986,0 -2.624986,4.19991 h 5.249972 z" />
+        <path
+           d="m 65.737846,112.13994 -1.791992,-1.43359"
+           fill="none"
+           id="path59"
+           style="stroke:#000000;stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none" />
+        <path
+           d="m 63.112861,110.03999 c 0.291556,0.34707 0.805246,0.98567 0.971863,1.63122 -0.04167,-0.65944 0.180445,-0.93711 0.832941,-1.04125 -0.666383,-0.0208 -1.402191,-0.38173 -1.804804,-0.58997 z"
+           stroke="none"
+           id="path60"
+           style="stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none" />
+        <path
+           d="m 66.262835,110.88 -1.791992,-1.43361"
+           fill="none"
+           id="path61"
+           style="stroke:#000000;stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none" />
+        <path
+           d="m 63.637851,108.78004 c 0.291556,0.34707 0.805246,0.98567 0.971863,1.63122 -0.04167,-0.65944 0.180445,-0.93711 0.832941,-1.04125 -0.666383,-0.0208 -1.402191,-0.38173 -1.804804,-0.58997 z"
+           stroke="none"
+           id="path62"
+           style="stroke-width:0.352778;stroke-miterlimit:10;stroke-dasharray:none" />
+        <title
+           id="title62">diode: light emitting</title>
+      </g>
+    </g>
+    <g
+       id="use1-3"
+       transform="matrix(3.7795278,0,0,3.7795278,349.59393,204.82122)">
+      <g
+         transform="matrix(0.7498994,0,0,0.75,11.241833,3.6209769)"
+         id="g66">
+        <title
+           id="title63">resistor: small</title>
+        <g
+           fill="none"
+           style="stroke-width:1.33342"
+           id="g64">
+          <path
+             d="m 8.3628218,36.299968 v -5.650517 m 0,-8.689538 v -5.659937"
+             style="stroke:#000000;stroke-width:0.352889;stroke-miterlimit:10"
+             id="path63" />
+          <path
+             d="M 8.4469339,30.798589 6.7907797,29.778456 9.9378256,28.333815 6.787818,26.88972 9.9378256,25.445624 6.787818,24.001525 9.9378256,22.557426 8.2590751,21.799179"
+             style="stroke:#000000;stroke-width:0.352801;stroke-linejoin:bevel;stroke-miterlimit:10"
+             id="path64"
+             sodipodi:nodetypes="cccccccc" />
+        </g>
+        <g
+           style="stroke-width:1.33342"
+           id="g65"
+           transform="translate(-0.83410134,0.59609181)">
+          <text
+             class="f0"
+             x="4.3319635"
+             y="27.056585"
+             style="font-size:4.70402px;font-family:'Latin Modern Roman Slanted';text-align:end;text-anchor:end;stroke-width:0.354213;stroke-miterlimit:10"
+             id="text64">R</text>
+          <text
+             class="f1"
+             x="4.4861627"
+             y="27.583771"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29281px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.354213;stroke-miterlimit:10"
+             id="text65">1</text>
+        </g>
+      </g>
+      <title
+         id="title66">resistor</title>
+    </g>
+    <g
+       id="use1-3-7"
+       transform="matrix(3.7795278,0,0,3.7795278,406.06582,205.10577)">
+      <g
+         transform="matrix(0.7498994,0,0,0.75,11.241833,3.6209769)"
+         id="g70">
+        <title
+           id="title67">resistor: small</title>
+        <g
+           fill="none"
+           style="stroke-width:1.33342"
+           id="g68">
+          <path
+             d="m 8.3628218,36.299968 v -5.650517 m 0,-8.689538 v -5.659937"
+             style="stroke:#000000;stroke-width:0.352889;stroke-miterlimit:10"
+             id="path67" />
+          <path
+             d="M 8.4469339,30.798589 6.7907797,29.778456 9.9378256,28.333815 6.787818,26.88972 9.9378256,25.445624 6.787818,24.001525 9.9378256,22.557426 8.2590751,21.799179"
+             style="stroke:#000000;stroke-width:0.352801;stroke-linejoin:bevel;stroke-miterlimit:10"
+             id="path68"
+             sodipodi:nodetypes="cccccccc" />
+        </g>
+        <g
+           style="stroke-width:1.33342"
+           id="g69"
+           transform="translate(-0.83410134,0.59609181)">
+          <text
+             class="f0"
+             x="4.3319635"
+             y="27.056585"
+             style="font-size:4.70402px;font-family:'Latin Modern Roman Slanted';text-align:end;text-anchor:end;stroke-width:0.354213;stroke-miterlimit:10"
+             id="text68">R</text>
+          <text
+             class="f1"
+             x="4.4861627"
+             y="27.583771"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29281px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.354213;stroke-miterlimit:10"
+             id="text69">2</text>
+        </g>
+      </g>
+      <title
+         id="title71">resistor</title>
+    </g>
+    <g
+       id="use1-2-7-3"
+       transform="matrix(3.7795278,0,0,3.7795278,459.10295,68.394558)">
+      <g
+         transform="matrix(0.7498994,0,0,0.75,12.241833,7.243453)"
+         id="g75">
+        <title
+           id="title72">capacior: small</title>
+        <g
+           fill="none"
+           style="stroke-width:1.33342"
+           id="g73">
+          <path
+             d="m 8.3628218,66.299967 v -8.950019 m 0,-2.099954 v -8.950019"
+             style="stroke:#000000;stroke-width:0.352889;stroke-miterlimit:10"
+             id="path72" />
+          <path
+             d="M 5.2128071,57.349948 H 11.512836 M 5.2128071,55.249994 h 6.3000289"
+             style="stroke:#000000;stroke-width:0.352801;stroke-miterlimit:10"
+             id="path73" />
+        </g>
+        <g
+           style="stroke-width:1.33342"
+           id="g74"
+           transform="translate(-0.58703502,0.64821098)">
+          <text
+             class="f0"
+             x="2.6152604"
+             y="57.056583"
+             style="font-size:4.70402px;font-family:'Latin Modern Roman Slanted';text-align:end;text-anchor:end;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none"
+             id="text73">C</text>
+          <text
+             class="f1"
+             x="2.7536387"
+             y="57.583771"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29281px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.354213;stroke-miterlimit:10"
+             id="text74">1</text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.70401px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             x="18.287378"
+             y="61.769154"
+             id="text444"
+             transform="scale(1.0000671,0.99993291)"><tspan
+               sodipodi:role="line"
+               id="tspan444"
+               style="stroke-width:0"
+               x="18.287378"
+               y="61.769154">4.7 nF</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.70401px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             x="-4.6969433"
+             y="122.69203"
+             id="text445"
+             transform="scale(1.0000671,0.99993291)"
+             inkscape:transform-center-x="-9.435667"
+             inkscape:transform-center-y="-2.1230251"><tspan
+               sodipodi:role="line"
+               id="tspan445"
+               style="stroke-width:0"
+               x="-4.6969433"
+               y="122.69203">1 nF</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.70401px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             x="-3.1082127"
+             y="126.12883"
+             id="text446"
+             transform="scale(1.0000671,0.99993292)"><tspan
+               sodipodi:role="line"
+               id="tspan446"
+               style="stroke-width:0"
+               x="-3.1082127"
+               y="126.12883">      </tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.70401px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             x="44.41325"
+             y="116.69628"
+             id="text447"
+             transform="scale(1.0000671,0.99993292)"><tspan
+               sodipodi:role="line"
+               id="tspan447"
+               style="stroke-width:0"
+               x="44.41325"
+               y="116.69628">    </tspan></text>
+        </g>
+      </g>
+      <title
+         id="title75">capacior</title>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="64.684822"
+         y="99.820374"
+         id="text448"
+         inkscape:transform-center-x="-8.4921003"
+         inkscape:transform-center-y="0.23589168"><tspan
+           sodipodi:role="line"
+           id="tspan448"
+           style="stroke-width:0"
+           x="64.684822"
+           y="99.820374">220 nF</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="47.418606"
+         y="82.38887"
+         id="text449"><tspan
+           sodipodi:role="line"
+           id="tspan449"
+           style="stroke-width:0"
+           x="47.418606"
+           y="82.38887" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="97.349007"
+         y="25.717869"
+         id="text450"><tspan
+           sodipodi:role="line"
+           id="tspan450"
+           style="stroke-width:0"
+           x="97.349007"
+           y="25.717869">6 turns</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="103.27563"
+         y="41.009048"
+         id="text451"><tspan
+           sodipodi:role="line"
+           id="tspan451"
+           style="text-align:center;text-anchor:middle;fill:#000000;stroke-width:0"
+           x="103.27563"
+           y="41.009048">Centre </tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#000000;stroke-width:0"
+           x="103.27563"
+           y="45.418762"
+           id="tspan453">tap</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="93.104912"
+         y="36.577728"
+         id="text452"><tspan
+           sodipodi:role="line"
+           id="tspan452"
+           style="stroke-width:0"
+           x="93.104912"
+           y="36.577728" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         x="91.60701"
+         y="26.341997"
+         id="text454"><tspan
+           sodipodi:role="line"
+           id="tspan454"
+           style="stroke-width:0"
+           x="91.60701"
+           y="26.341997" /></text>
+    </g>
+    <g
+       id="use1-2-7-32"
+       transform="matrix(3.7795278,0,0,3.7795278,534.70965,68.041536)">
+      <g
+         transform="matrix(0.7498994,0,0,0.75,12.241833,7.243453)"
+         id="g79">
+        <title
+           id="title76">capacior: small</title>
+        <g
+           fill="none"
+           style="stroke-width:1.33342"
+           id="g77">
+          <path
+             d="m 8.3628218,66.299967 v -8.950019 m 0,-2.099954 v -8.950019"
+             style="stroke:#000000;stroke-width:0.352889;stroke-miterlimit:10"
+             id="path76" />
+          <path
+             d="M 5.2128071,57.349948 H 11.512836 M 5.2128071,55.249994 h 6.3000289"
+             style="stroke:#000000;stroke-width:0.352801;stroke-miterlimit:10"
+             id="path77" />
+        </g>
+        <g
+           style="stroke-width:1.33342"
+           id="g78"
+           transform="translate(-0.58703502,0.64821098)">
+          <text
+             class="f0"
+             x="2.6152604"
+             y="57.056583"
+             style="font-size:4.70402px;font-family:'Latin Modern Roman Slanted';text-align:end;text-anchor:end;stroke-width:0.354213;stroke-miterlimit:10"
+             id="text77">C</text>
+          <text
+             class="f1"
+             x="2.7536387"
+             y="57.583771"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29281px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.354213;stroke-miterlimit:10"
+             id="text78">2</text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9345px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.34669;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             x="4.3873825"
+             y="48.772743"
+             id="text98"
+             transform="scale(1.0000671,0.99993292)"><tspan
+               sodipodi:role="line"
+               id="tspan98"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.34669"
+               x="4.3873825"
+               y="48.772743"> </tspan></text>
+        </g>
+      </g>
+      <title
+         id="title80">capacior</title>
+    </g>
+    <g
+       id="use1-5"
+       transform="matrix(3.7795278,0,0,3.7795278,648.81081,470.57397)"><path
+   d="M 8.36282,0.40001863"
+   fill="none"
+   style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10"
+   id="path80" />
+<path
+   d="M 8.36282,0.40001863 V 4.4429286"
+   fill="none"
+   style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10"
+   id="path81" />
+<path
+   id="path82"
+   style="stroke:#000000;stroke-width:0.246944;stroke-miterlimit:10;stroke-dasharray:none"
+   d="m 6.26281,4.4429286 h 4.20002 M 6.96285,5.3714523 H 9.76279 M 7.48783,6.2999759 h 1.74998" />
+     <title
+   id="title82">ground</title>
+</g>
+    <g
+       id="use1-8"
+       transform="matrix(3.7795278,0,0,3.7795278,648.62407,-613.52675)">
+      <title
+         id="title84">mos: nmos analog</title>
+      <g
+         id="g88">
+        <path
+           d="m 8.3628267,252.29997 -4.9e-6,2.97872 H 4.6878597"
+           fill="none"
+           id="path84"
+           style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10"
+           sodipodi:nodetypes="ccc" />
+        <path
+           d="m 4.6878597,257.29997 h 3.6749621 m -3.6749621,2.02128 h 3.6749621 v 2.97872"
+           fill="none"
+           id="path85"
+           style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path86"
+           style="stroke:#000000;stroke-width:0.264583;stroke-miterlimit:10;stroke-dasharray:none"
+           d="m 3.8058995,255.14636 v 4.30722 m 0.8819602,-5.04111 v 5.775" />
+        <path
+           d="m 6.716433,257.29997 v 0.6757 l -1.5608154,-0.6757 1.5608154,-0.6757 z"
+           stroke="none"
+           id="path87"
+           style="stroke-width:0.264649;stroke-miterlimit:10" />
+        <path
+           d="M 3.8058995,257.29997 H 1.3628216"
+           fill="none"
+           id="path88"
+           style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10" />
+      </g>
+      <g
+         transform="translate(-208.28744,320.24165)"
+         id="g89">
+        <text
+           x="220.84665"
+           y="-61.999996"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+           xml:space="preserve"
+           id="text88"><tspan
+             x="220.84665"
+             y="-61.999996"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:end;text-anchor:end;stroke-width:0.264583"
+             id="tspan88">M</tspan></text>
+        <text
+           x="221.06665"
+           y="-61.473885"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+           xml:space="preserve"
+           id="text89"><tspan
+             x="221.06665"
+             y="-61.473885"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+             id="tspan89">1</tspan></text>
+      </g>
+      <title
+         id="title89">mos: nmos analog</title>
+    </g>
+    <g
+       id="use1"
+       transform="matrix(3.7795278,0,0,3.7795278,-973.53323,52.979963)">
+      <title
+         id="title90">vdd</title>
+      <path
+         style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.705556;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m 432.5131,28.968435 h 10.00001"
+         id="path90" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 437.51309,28.968435 v 1.999999"
+         id="path91" />
+      <g
+         id="g92"
+         transform="translate(229.75797,87.661945)">
+        <title
+           id="title91">label2</title>
+        <text
+           x="215.75513"
+           y="-57.746479"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+           xml:space="preserve"
+           id="text91"><tspan
+             x="215.75513"
+             y="-57.746479"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:end;text-anchor:end;stroke-width:0.264583"
+             id="tspan91">V</tspan></text>
+        <text
+           x="215.88588"
+           y="-57.231068"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:0;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-decoration-color:#000000;letter-spacing:0.0978958px;word-spacing:0px;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+           xml:space="preserve"
+           id="text92"><tspan
+             x="215.88588"
+             y="-57.231068"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:0;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';letter-spacing:0.0978958px;word-spacing:0px;stroke-width:0.264583"
+             id="tspan92">DD</tspan></text>
+        <title
+           id="title92">label2</title>
+      </g>
+      <title
+         id="title93">vdd</title>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-dasharray:none;stroke-opacity:1"
+       d="m 680.05558,169.8713 v 18.25142 0 0"
+       id="path12" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 680.05559,377.95653 0.38024,94.67925"
+       id="path15" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 755.52143,453.58173 -0.13443,18.95525 h 0.13443"
+       id="path16" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 680.3726,472.40255 74.87997,-0.13444 v 0"
+       id="path18" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 680.43583,472.63578 -30.60916,-0.66542 -120.91568,0.28518 h 0.0951"
+       id="path20" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 529.00605,453.71894 v 18.72672 0"
+       id="path25" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 529.13387,472.40255 -113.32821,0.13443"
+       id="path26" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 415.67122,415.94009 0.13444,56.59689"
+       id="path27" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="M 415.67122,358.9399 V 321.29826"
+       id="path28" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 528.865,396.98484 0.20165,-113.39543"
+       id="path29" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 653.81917,358.94463 -181.56363,0.19012"
+       id="path30" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 472.25554,321.49119 0.0951,37.64356"
+       id="path31" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 529.19617,207.8951 -0.0951,18.91685"
+       id="path32" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 604.67341,207.80004 v 18.82179 0 0"
+       id="path33" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 604.67341,283.65752 v 75.00193"
+       id="path34"
+       clip-path="url(#clipPath387)" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 604.71962,284.63128 0.0336,-2.68869 v 0"
+       id="path35" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 472.33533,264.63416 0.11033,-56.73906"
+       id="path36" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 472.39813,266.2141 0.0475,-2.80425 v 0"
+       id="path37" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="M 472.44566,207.84757 H 755.818"
+       id="path38" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 415.69515,264.55056 0.0433,-75.6366 v 0 0"
+       id="path39" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="M 680.31378,188.96438 H 415.77205"
+       id="path40" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 604.7447,302.408 75.52707,-0.065"
+       id="path41" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 680.33899,340.08547 -0.0139,-37.73102"
+       id="path42" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 680.31252,264.62501 -0.009,37.90622"
+       id="path43" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 755.93752,264.62501 -75.62344,-0.0566"
+       id="path44" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.348023;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path100-4"
+       cx="-17.482338"
+       cy="-21.098579"
+       rx="2.882447"
+       ry="3.0879221"
+       clip-path="url(#clipPath330-9)"
+       transform="matrix(2.8342657,0,0,2.8346459,806.02208,324.86467)" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 680.25002,226.75001 113.38897,0.0545"
+       id="path45"
+       clip-path="url(#clipPath424)" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.982677;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 755.89717,283.48354 -0.0884,113.33596"
+       id="path46" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.986457;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 755.89863,227.09903 0.0417,29.12755"
+       id="path389" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.986457;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 755.91948,273.80319 -0.0208,9.90379"
+       id="path390" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.986457;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 748.35091,264.62916 26.39619,-0.1251"
+       id="path391" />
+    <circle
+       id="path392"
+       style="fill:#000000;stroke:#000000"
+       cx="774.53857"
+       cy="264.42065"
+       r="0.25886148" />
+    <circle
+       id="path393"
+       style="fill:#000000;stroke:#000000"
+       cx="774.74707"
+       cy="207.91695"
+       r="0.25886148" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.986457;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 755.66928,207.86482 19.14641,0.0147 v 0"
+       id="path394" />
+    <circle
+       id="path395"
+       style="fill:#000000;stroke:#000000"
+       cx="774.74707"
+       cy="226.97391"
+       r="0.25886148" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.986457;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path435"
+       cx="847.6806"
+       cy="226.18161"
+       rx="42.367352"
+       ry="42.033752" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.986457;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path436"
+       cx="847.34705"
+       cy="226.84882"
+       r="56.712204" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.986457;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 774.622,207.66675 c 4.55922,-0.556 9.11843,-1.11201 13.14948,-2.80784 4.03105,-1.69584 7.53379,-4.53139 11.03661,-7.367"
+       id="path437"
+       inkscape:path-effect="#path-effect437"
+       inkscape:original-d="m 774.622,207.66675 c 4.55922,-0.55601 9.11843,-1.11201 13.67765,-1.66801 3.50288,-2.83567 7.00562,-5.67122 10.50844,-8.50683" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.986457;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 774.4552,264.21216 c 6.39402,1.112 12.78805,2.22401 20.07175,4.11444 7.28371,1.89043 15.45678,4.55919 23.63001,7.228"
+       id="path438"
+       inkscape:path-effect="#path-effect438"
+       inkscape:original-d="m 774.4552,264.21216 c 6.39402,1.112 12.78805,2.22401 19.18207,3.33601 8.17339,2.66886 16.34646,5.33762 24.51969,8.00643" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.986457;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 775.1224,226.84882 c 6.56083,-0.556 13.12165,-1.112 18.2925,-2.25182 5.17086,-1.13982 8.9516,-2.86339 12.73241,-4.587"
+       id="path439"
+       inkscape:path-effect="#path-effect439"
+       inkscape:original-d="m 775.1224,226.84882 c 6.56083,-0.556 13.12165,-1.112 19.68247,-1.668 3.78089,-1.72364 7.56163,-3.44721 11.34244,-5.17082" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.986457;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 805.48011,231.68604 c -5.05962,-1.0008 -10.11924,-2.00161 -15.20671,-2.75221 -5.08746,-0.75061 -10.20258,-1.251 -15.3178,-1.7514"
+       id="path440"
+       inkscape:path-effect="#path-effect440"
+       inkscape:original-d="m 805.48011,231.68604 c -5.05962,-1.0008 -10.11924,-2.00161 -15.17885,-3.00241 -5.11532,-0.50041 -10.23044,-1.0008 -15.34566,-1.5012" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.986457;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       x="391.31421"
+       y="385.97659"
+       id="text440"><tspan
+         sodipodi:role="line"
+         id="tspan440"
+         x="391.31421"
+         y="385.97659" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       x="378.84128"
+       y="390.66318"
+       id="text441"><tspan
+         sodipodi:role="line"
+         id="tspan441"
+         x="378.84128"
+         y="390.66318"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';fill:#000000;stroke-width:0;stroke-dasharray:none">LED</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       x="379.07474"
+       y="313.91867"
+       id="text442"
+       inkscape:transform-center-x="7.7844253"
+       inkscape:transform-center-y="3.0665918"><tspan
+         sodipodi:role="line"
+         id="tspan442"
+         x="379.07474"
+         y="313.91867">1 kΩ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       x="490.03931"
+       y="273.32199"
+       id="text443"><tspan
+         sodipodi:role="line"
+         id="tspan443"
+         x="490.03931"
+         y="273.32199"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0;stroke-dasharray:none">1 nF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       x="450.22641"
+       y="313.63824"
+       id="text455"><tspan
+         sodipodi:role="line"
+         id="tspan455"
+         x="450.22641"
+         y="313.63824">5 kΩ</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect455"
+       width="571.80133"
+       height="363.27313"
+       x="361.38605"
+       y="142.47858" />
+    <g
+       id="use1-6"
+       transform="matrix(3.7795278,0,0,3.7795278,-445.45298,-214.13464)">
+      <title
+         id="title455">text: greek letters</title>
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="406.35403"
+         y="51.746918"
+         id="text459"><tspan
+           sodipodi:role="line"
+           id="tspan456"
+           style="stroke-width:0.264583"
+           x="406.35403"
+           y="51.746918">Α, Β, Γ, Δ, Ε, Ζ,</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="406.35403"
+           y="56.597618"
+           id="tspan457">Η, Θ, Ι, Κ, Λ, Μ,</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="406.35403"
+           y="61.448318"
+           id="tspan458">Ν, Ξ, Ο, Π, Ρ, Σ,</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="406.35403"
+           y="66.299019"
+           id="tspan459">Τ, Υ, Φ, Χ, Ψ,                                                     </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman,  Italic';text-decoration-color:#000000;fill:#000000;stroke-width:0.264583;-inkscape-stroke:none;stop-color:#000000"
+         x="406.46988"
+         y="72.731392"
+         id="text464"><tspan
+           sodipodi:role="line"
+           id="tspan460"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+           x="406.46988"
+           y="72.731392">𝛼, 𝛽, 𝛾, 𝛿, 𝜀, 𝜁,</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+           x="406.46988"
+           y="77.582092"
+           id="tspan461">𝜂, 𝜃, 𝜄, 𝜅, 𝜆, 𝜇,</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+           x="406.46988"
+           y="82.432793"
+           id="tspan462">𝜈, 𝜉, 𝜊, 𝜋, 𝜌, 𝜍, 𝜎,</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+           x="406.46988"
+           y="87.283493"
+           id="tspan463">𝜏, 𝜐, 𝜑, 𝜒, 𝜓, 𝜔,</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+           x="406.46988"
+           y="92.134193"
+           id="tspan464">𝜕, 𝜖, 𝜗, 𝜘, 𝜙, 𝜚, 𝜛</tspan></text>
+      <title
+         id="title464">text: greek letters</title>
+    </g>
+  </g>
+</svg>
